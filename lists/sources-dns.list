@@ -7,22 +7,16 @@ https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/core_heav
 # BadBlock+
 https://raw.githubusercontent.com/celenityy/BadBlock/pages/abp/badblock_plus.txt
 
-# 1Hosts - Pro
-https://badmojr.github.io/1Hosts/Pro/hosts.txt
-
-# oisd
-https://big.oisd.nl
-
-# hagezi ultimate
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt
-
-# hagezi popupads
+# Hagezi popupads
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
 
-# hagezi gambling
+# Hagezi gambling
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
 
-# hagezi Native Tracker
+# Hagezi Native Tracker
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt
+
+# Cenk
+https://dl.cenk.app/bad-hosts/bad-hosts-wildcard
