@@ -1,11 +1,28 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
 
-# Hagezi DNS Blocklist - Pro (Comprehensive and well-maintained, less aggressive than Pro++)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
+# SystemJargon core_heavy
+https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/core_heavy.txt
 
-# StevenBlack's hosts - Unified hosts + adware + malware (Optional, enable if you want another layer)
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# BadBlock+
+https://raw.githubusercontent.com/celenityy/BadBlock/pages/abp/badblock_plus.txt
 
 # 1Hosts - Pro
 https://badmojr.github.io/1Hosts/Pro/hosts.txt
+
+# oisd
+https://big.oisd.nl
+
+# hagezi ultimate
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt
+
+# hagezi popupads
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
+
+# hagezi gambling
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
+
+# hagezi Native Tracker
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt
