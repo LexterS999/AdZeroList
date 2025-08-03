@@ -24,11 +24,6 @@ https://dl.cenk.app/bad-hosts/bad-hosts-wildcard
 # AdguardDNS
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 
-# mtxadmin
-https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt
-
 # flossboxin
 https://hosts.flossboxin.org.in/files/hosts
 
-# hblock
-https://hblock.molinero.dev/hosts_domains.txt
