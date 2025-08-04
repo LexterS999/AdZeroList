@@ -29,12 +29,20 @@ https://energized.pro/ultimate/adblock.txt
 https://energized.pro/antipopads-re/adblock.txt
 https://energized.pro/regional/adblock.txt
 
-# Firebog AIO
-https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/raw/main/domlists/aiofirebogbluegreen.txt
+# t0ny54
+https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt
 
-# cbuijs
-https://raw.githubusercontent.com/cbuijs/extra/refs/heads/main/adblock.txt
-https://raw.githubusercontent.com/cbuijs/adblocks/refs/heads/main/ultimate.adblock.txt
-https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/crypto/adblock.txt
-https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/easylist/adblock.txt
-https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/gambling/adblock.txt
+# missdeer
+https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts
+
+# NotaInutilis
+https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt
+
+# PiSolid-NSFW
+https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-nsfw.txt
+
+# OsborneLabs
+https://raw.githubusercontent.com/OsborneLabs/Columbia/master/Columbia.txt
+
+# AWAvenue-Ads-Rule
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
