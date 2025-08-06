@@ -1,18 +1,15 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
 
-# SystemJargon core_heavy
-https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/core_heavy.txt
-
-# Hagezi popupads
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
-
-# Hagezi Native Tracker
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt
-
-# Energized.pro
-https://energized.pro/ultimate/adblock.txt
-https://energized.pro/antipopads-re/adblock.txt
-https://energized.pro/regional/adblock.txt
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+https://dl.cenk.app/bad-hosts/hosts
+https://energized.pro/ultimate/hosts.txt
+https://energized.pro/nsfw/hosts.txt
+https://energized.pro/antipopads-re/hosts.txt
+https://energized.pro/regional/hosts.txt
+https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-ultra.txt
+https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-nsfw.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-no-star/badblock.txt
