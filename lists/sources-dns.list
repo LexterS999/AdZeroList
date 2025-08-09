@@ -1,19 +1,6 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/ads.hosts.list
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/trackers.hosts.list
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/malware.hosts.list
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/miscellaneous.hosts.list
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/phishing.hosts.list
-https://raw.githubusercontent.com/cbuijs/airelle/refs/heads/master/porn.hosts.list
-https://raw.githubusercontent.com/cbuijs/1hosts/refs/heads/main/Pro/domains
-https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains
-https://raw.githubusercontent.com/cbuijs/hblock/refs/heads/main/host_domains/domains
-https://raw.githubusercontent.com/cbuijs/stevenblack/refs/heads/main/domains/adware-malware-fakenews-gambling-porn.list
-https://raw.githubusercontent.com/cbuijs/adblocks/refs/heads/main/ultimate.adblock.txt
-https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/native-xiaomi/domains
-https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/native-winoffice/domains
-https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/native-samsung/domains
-https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/pro-plus/domains
-https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/easylist/plain.black.domain.list
-https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
+https://energized.pro/ultimate/hosts.txt
+https://energized.pro/nsfw/hosts.txt
+https://energized.pro/antipopads-re/hosts.txt
+https://energized.pro/regional/hosts.txt
