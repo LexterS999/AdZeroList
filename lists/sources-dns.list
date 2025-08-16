@@ -1,7 +1,31 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
 https://badblock.celenity.dev/abp/badblock.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt
+https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
+https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list
+https://phishing.army/download/phishing_army_blocklist.txt
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+https://github.com/cbuijs/accomplist/raw/master/typosquat/plain.black.domain.list
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://hblock.molinero.dev/hosts_domains.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-https://hblock.molinero.dev/hosts.txt
-https://big.oisd.nl
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://easylist-downloads.adblockplus.org/advblock.txt
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+https://hosts.flossboxin.org.in/files/hosts
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt
