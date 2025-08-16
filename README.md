@@ -18,29 +18,6 @@ Welcome to **AdZeroList**! This repository is your go-to solution for automatica
 -   **Flexible Source Management**: Easily manage your sources by editing the appropriate source files. Add, remove, or temporarily disable sources with ease.
 -   **Comprehensive Protection**: Blocks ads, trackers, malware, phishing, cryptomining, and annoying elements across all platforms.
 
-## 🚀 Usage
-## 🔗 Direct Download Links (Recommended)
-
-**For better browser compatibility, use these direct links instead of GitHub releases:**
-
-### Browser Adblockers
-- **Brave Browser**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/adblock.txt`
-- **uBlock Origin**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/ublock.txt`
-
-### DNS Servers  
-- **Hosts format**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/hosts.txt`
-- **Hosts uncompressed**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/hosts-uncompressed.txt`
-- **Dnsmasq**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/dnsmasq.conf`
-- **SmartDNS**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/smartdns.conf`
-- **BIND RPZ**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/bind-rpz.conf`
-- **Blocky**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/blocky.yml`
-- **Unbound**: `https://raw.githubusercontent.com/eikarna/AdZeroList/main/outputs/unbound.conf`
-
-> **Note**: GitHub releases may have compatibility issues with some browsers/downloaders. The `raw.githubusercontent.com` links provide direct access without redirect issues.
-
-
-Getting started with AdZeroList is simple! You can download the latest generated files directly from our **[Releases page](https://github.com/eikarna/AdZeroList/releases)**.
-
 ### Available Formats
 
 AdZeroList generates blocklists in multiple formats to support different applications:
@@ -56,13 +33,11 @@ AdZeroList generates blocklists in multiple formats to support different applica
 
 **Browser Extension Formats:**
 - **`adblock.txt`** - AdBlock Plus format (compatible with Brave, AdBlock Plus, and most browser extensions)
-- **`ublock.txt`** - uBlock Origin optimized format (enhanced metadata for uBlock Origin)
 
 ### Browser Extension Usage
 
 For browser-based ad blockers:
 1. Download `adblock.txt` for general compatibility with AdBlock Plus, Brave, and similar extensions
-2. Download `ublock.txt` for optimal performance with uBlock Origin
 3. Add the downloaded file as a custom filter list in your adblocker settings
 
 ### DNS Server Usage
@@ -164,29 +139,3 @@ The system uses production-ready, curated source lists for maximum effectiveness
 - Prevent blocking of essential services
 
 Your changes will automatically trigger a new build after you `push` to the `main` branch, so you'll see your customizations in action quickly!
-
-## 📜 Current Sources
-
-### DNS-Level Sources (Optimized for hosts, dnsmasq, smartdns, BIND, Blocky, Unbound)
-- [Hagezi DNS Blocklist Pro++](https://github.com/hagezi/dns-blocklists) - Most comprehensive, highly maintained
-- [1Hosts Pro](https://github.com/badmojr/1Hosts) - High-quality curated list
-- [StevenBlack's Unified hosts](https://github.com/StevenBlack/hosts) - Ads + malware + fakenews + gambling
-- [OISD Big](https://oisd.nl/) - Comprehensive domain blocking
-- [AdAway](https://adaway.org/) - Mobile-focused blocking
-- [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Smart TV ads blocking
-- [NoTracking](https://github.com/notracking/hosts-blocklists) - Privacy-focused
-- [Phishing Army](https://phishing.army/) - Anti-phishing protection
-- [Malware Domain List](https://www.malwaredomainlist.com/) - Security focused
-- [URLHaus](https://urlhaus.abuse.ch/) - Malware URL blocking
-
-### AdBlock Sources (Optimized for browser extensions)
-- [EasyList](https://easylist.to/) - Core ad blocking (essential)
-- [EasyPrivacy](https://easylist.to/) - Privacy protection and tracking prevention
-- [uBlock Origin filters](https://github.com/uBlockOrigin/uAssets) - Native uBlock filters, privacy, badware, resource abuse
-- [AdGuard filters](https://github.com/AdguardTeam/AdguardFilters) - Base filter, tracking protection, mobile optimization
-- [Fanboy's lists](https://easylist.to/) - Annoyance and social blocking
-- Anti-phishing and anti-malware filters
-- Regional optimization filters
-
----
-*Created with the help of Gemini.*
