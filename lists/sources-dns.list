@@ -1,12 +1,6 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
 https://badblock.celenity.dev/abp/badblock.txt
-https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/11.txt
-https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Bloat
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/DNS
@@ -14,3 +8,4 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/R
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Junk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Marketing
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/RAW/Tracking
+https://hblock.molinero.dev/hosts
