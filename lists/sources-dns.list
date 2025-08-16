@@ -1,12 +1,7 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
 https://badblock.celenity.dev/abp/badblock.txt
-https://raw.githubusercontent.com/fenixvd/ultimate-blocklist/refs/heads/main/blocklist.txt
-https://dl.cenk.app/bad-hosts/bad-hosts-abp
-https://github.com/ammnt/DeadEnd/raw/main/filter.txt
-https://energized.pro/ultimate/hosts.txt
-https://energized.pro/regional/hosts.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-https://hblock.molinero.dev/hosts_adblock.txt
+https://hblock.molinero.dev/hosts.txt
 https://big.oisd.nl
