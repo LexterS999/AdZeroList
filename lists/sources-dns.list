@@ -1,4 +1,22 @@
 # DNS-level sources optimized for hosts, dnsmasq, smartdns, BIND, Blocky, and Unbound
 # Curated for maximum effectiveness with minimal false positives
-https://badblock.celenity.dev/abp/badblock.txt
-https://hblock.molinero.dev/hosts
+https://big.oisd.nl
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/SystemJargon/filters/main/ads.txt
+https://raw.githubusercontent.com/SystemJargon/filters/main/telemetry.txt
+https://raw.githubusercontent.com/SystemJargon/filters/main/threats.txt
+https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adverts/ads.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://badmojr.gitlab.io/1hosts/Lite/hosts.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/windows-telemetry-spy-blocklist.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/huawei-telemetry-tracking.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/android-telemetry-tracking.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/custom-telemetry-tracking.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/updates/web-browsers-nopush.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/apple-intelligence.txt
+https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/basic-telemetry-devices.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/pages/abp/badblock.txt
